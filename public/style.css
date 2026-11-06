@@ -2,10 +2,10 @@
    Palette: navy + light blue. Change the variables to restyle the whole site. */
 
 :root {
-  --navy: #1F3864;
-  --light-blue: #CADCFC;
+  --navy: #116626;
+  --light-blue: #bec5bf;
   --paper: #ffffff;
-  --text: #1b1b1b;
+  --text: #d8d3d3;
   --danger: #b3261e;
 }
 
@@ -82,7 +82,7 @@ button, .button {
   display: inline-block;
 }
 
-button:hover, .button:hover { background: #2b4c8c; }
+button:hover, .button:hover { background: #168532; }
 
 .site-header button { background: var(--light-blue); color: var(--navy); }
 
